@@ -1,3 +1,4 @@
+// Author: Laura Whalen
 
 public class RoadRunner extends Player {
 	
