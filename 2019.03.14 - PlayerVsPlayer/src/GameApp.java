@@ -1,3 +1,5 @@
+Author: Laura Whalen
+
 import java.awt.CardLayout;
 import java.awt.Color;
 import java.awt.Cursor;
