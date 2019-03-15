@@ -1,3 +1,4 @@
+// Author: Laura Whalen
 
 public class WileECoyote extends Player {
 	
