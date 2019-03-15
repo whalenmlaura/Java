@@ -1,3 +1,4 @@
+// Author: Laura Whalen
 
 public abstract class Player {
 	@SuppressWarnings("unused")
